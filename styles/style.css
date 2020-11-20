@@ -10,5 +10,34 @@
 	flex-direction: column;
 	align-items: center;
 	height: 100%;
+	width: 100%;
 }
 
+
+.proffession_q{
+	border: 2px solid red;
+	display: flex;
+	flex-direction: column;
+	margin: 20px;
+}
+
+.exams_q{
+	border: 2px solid red;
+	display: flex;
+	flex-direction: column;
+	margin: 20px;
+}
+
+.events_q{
+	border: 2px solid red;
+	display: flex;
+	flex-direction: column;
+	margin: 20px;
+}
+
+.personal_data{
+	border: 2px solid red;
+	display: flex;
+	flex-direction: column;
+	margin: 20px;
+}
